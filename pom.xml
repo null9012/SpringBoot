@@ -75,6 +75,7 @@
 			<artifactId>pagehelper</artifactId>
 			<version>4.1.6</version>
 		</dependency>
+		
     </dependencies>
 
     <properties>
